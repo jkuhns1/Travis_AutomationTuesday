@@ -1,3 +1,5 @@
+before_install:
+  - chmod +x build.sh
 script: 
 - echo Hello git world
 - ./testfile
