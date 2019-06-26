@@ -1,2 +1,3 @@
 script: 
-- echo Hello world
+- echo Hello git world
+- ./testfile
